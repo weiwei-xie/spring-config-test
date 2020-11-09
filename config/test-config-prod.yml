@@ -1,4 +1,4 @@
 data:
-  env: localhost-prod
-  username: weiwxie
-  password: password-prod
+  env: localhost-prod-u
+  username: weiwxie-u
+  password: password-prod-u
