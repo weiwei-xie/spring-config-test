@@ -1,4 +1,4 @@
 data:
-  env: localhost-dev
-  username: weiwxie
-  password: password-dev
+  env: localhost-dev-u
+  username: weiwxie-u
+  password: password-dev-u
