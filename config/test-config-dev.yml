@@ -1,4 +1,4 @@
 data:
   env: localhost-dev-nx
   username: weiwxie-nx
-  password: password-dev-nx
+  password: '{cipher}bf094d6d9d6f86416e760799ba88a32b615bcb0d98c5655d65c4f0b9f6dc7cb9'
